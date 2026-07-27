@@ -40,25 +40,25 @@ The project uses two related datasets:
 
 Contains 15,251 restaurant order records, including:
 
-Order ID
-Customer ID
-Product Category
-Item Name
-Item Price
-Quantity Ordered
-Total Order Amount
-Order Date
-Payment Method
-Ordered By (Mr./Mrs.)
-Time of Sale (Morning, Afternoon, Evening, Night)
+- Order ID
+- Customer ID
+- Product Category
+- Item Name
+- Item Price
+- Quantity Ordered
+- Total Order Amount
+- Order Date
+- Payment Method
+- Ordered By (Mr./Mrs.)
+- Time of Sale (Morning, Afternoon, Evening, Night)
 
 2. Customers Table
 
 Contains customer demographic information, including:
 
-Customer ID
-City
-Age Group
+- Customer ID
+- City
+- Age Group
 
 ---
 
