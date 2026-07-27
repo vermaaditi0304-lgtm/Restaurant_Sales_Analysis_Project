@@ -227,7 +227,3 @@ The project contains six interactive Power BI dashboard pages:
 * Payment & City Analysis
 * Age Group Revenue Analysis
 
-
----
-
-This README closely matches the quality expected in GitHub portfolios and is suitable for placement interviews and recruiter review.
