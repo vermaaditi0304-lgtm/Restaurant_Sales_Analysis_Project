@@ -26,8 +26,8 @@ The dashboard enables stakeholders to monitor key business metrics, identify gro
 # 🛠️ Tools & Technologies
 
 * **Microsoft Excel** – Data Cleaning & Preprocessing
-* **MySQL** – Data Extraction & Business Queries
 * **Python (Pandas, Matplotlib, Seaborn)** – Exploratory Data Analysis (EDA)
+* **MySQL** – Data Extraction & Business Queries
 * **Power BI** – Interactive Dashboard & Data Visualization
 
 ---
