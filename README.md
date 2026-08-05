@@ -65,8 +65,8 @@ Contains customer demographic information, including:
 # 🔄 Project Workflow
 
 1. Cleaned and prepared the dataset using Microsoft Excel.
-2. Imported data into MySQL and performed business queries.
-3. Conducted Exploratory Data Analysis (EDA) using Python (Pandas, Matplotlib, Seaborn).
+2. Conducted Exploratory Data Analysis (EDA) using Python (Pandas, Matplotlib, Seaborn).
+3. Imported data into MySQL and performed business queries.
 4. Calculated business KPIs and derived key performance metrics.
 5. Built a six-page interactive Power BI dashboard.
 6. Generated business insights and recommendations based on the analysis.
