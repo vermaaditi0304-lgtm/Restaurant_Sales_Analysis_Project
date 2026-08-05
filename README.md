@@ -216,14 +216,3 @@ This project demonstrates how business intelligence tools can transform restaura
 
 ---
 
-## 📷 Dashboard Preview
-
-The project contains six interactive Power BI dashboard pages:
-
-* Executive Summary
-* Customer Behavior Analysis
-* Time-Based Sales Analysis
-* Product & Category Analysis
-* Payment & City Analysis
-* Age Group Revenue Analysis
-
