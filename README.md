@@ -184,29 +184,27 @@ Includes:
 
 ---
 
-# 📈 Key Business Insights
+## 📊 Key Business Insights
 
-* Main Dishes are the restaurant's largest revenue contributor.
-* Revenue is consistently distributed across different times of the day.
-* Customer revenue increases with purchase frequency.
-* Payment preferences are balanced across all available payment methods.
-* Bangalore is the strongest-performing city.
-* Working professionals (36–45 years) contribute the highest revenue.
-* Revenue is diversified across customers, reducing business risk.
-* Top-selling menu items account for a significant portion of total revenue.
+- Main Dishes contribute **~47% of total revenue**, making them the restaurant's primary revenue driver.
+- Revenue remains **stable throughout the year**, indicating consistent customer demand with limited year-over-year growth.
+- Higher purchase frequency is strongly associated with **higher customer revenue**, emphasizing the value of repeat customers.
+- **Wednesday records the lowest sales**, highlighting an opportunity to improve mid-week demand.
+- **Bangalore is the highest-performing city**, while Mumbai generates the lowest revenue.
+- Customers aged **36–45 contribute the highest revenue**, whereas the **18–25 segment** presents significant growth potential.
+- The **top-selling menu items contribute over 30% of total revenue**, showing that a small group of products drives a large share of sales.
 
 ---
 
-# 💡 Business Recommendations
+## 💡 Business Recommendations
 
-* Bundle Main Dishes with Drinks or Side Dishes to increase Average Order Value.
-* Introduce premium beverages to improve revenue from the Drinks category.
-* Launch seasonal promotions and limited-time offers to boost sales.
-* Implement customer loyalty and reward programs to increase repeat purchases.
-* Introduce Wednesday combo offers to improve mid-week sales.
-* Promote high-performing menu items while improving the visibility of lower-selling products.
-* Increase marketing efforts in lower-performing cities such as Mumbai.
-* Target the 18–25 age group through student discounts, cashback offers, social media campaigns, and modern dining experiences.
+- Bundle **Main Dishes with Drinks or Side Dishes** to increase Average Order Value (AOV).
+- Launch **Wednesday combo offers and promotional campaigns** to boost mid-week sales.
+- Introduce a **customer loyalty program** to encourage repeat purchases and improve customer retention.
+- Increase the visibility of **lower-selling menu items** through cross-selling and strategic menu placement.
+- Strengthen marketing efforts in **Mumbai** to improve regional sales performance.
+- Target the **18–25 age group** through student discounts, cashback offers, and social media campaigns.
+- Introduce **seasonal and limited-time menu offerings** to encourage repeat visits and drive revenue growth.
 
 ---
 
