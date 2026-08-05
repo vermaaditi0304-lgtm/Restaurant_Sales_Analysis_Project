@@ -29,6 +29,7 @@ The dashboard enables stakeholders to monitor key business metrics, identify gro
 * **Python (Pandas, Matplotlib, Seaborn)** – Exploratory Data Analysis (EDA)
 * **MySQL** – Data Extraction & Business Queries
 * **Power BI** – Interactive Dashboard & Data Visualization
+* **Data Source** - Kaggle
 
 ---
 
