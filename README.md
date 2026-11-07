@@ -132,7 +132,7 @@ Includes:
 
 ---
 
-### 5️⃣ Payment & City Analysis
+### 4️⃣ Payment & City Analysis
 
 Examines geographical performance and payment preferences.
 
@@ -150,7 +150,7 @@ Includes:
 
 ---
 
-### 6️⃣ Age Group Revenue Analysis
+### 5️⃣ Age Group Revenue Analysis
 
 Analyzes customer demographics.
 
