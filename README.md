@@ -115,37 +115,20 @@ Includes:
 
 ---
 
-### 3️⃣ Time-Based Sales Analysis
+### 3️⃣ Sales Trends & Performance
 
-Analyzes sales performance across different time periods.
-
-Includes:
-
-* Revenue by Day of Week
-* Revenue by Time of Sale
-* Category-wise Revenue by Time Slot
-
-**Key Insights**
-
-* Revenue remains fairly consistent throughout Morning, Afternoon, Evening, and Night.
-* Wednesday records the lowest revenue, indicating an opportunity for mid-week promotional campaigns.
-
----
-
-### 4️⃣ Product & Category Analysis
-
-Evaluates menu performance.
+Analyzes sales performance & evaluates menu performance.
 
 Includes:
 
 * Top 15 Revenue-Contributing Items
-* Top 10 Best-Selling Products
-* Monthly Revenue by Category
+* Revenue by Day of Week
 
 **Key Insights**
 
+
+* Wednesday records the lowest revenue, indicating an opportunity for mid-week promotional campaigns.
 * Grilled Chicken, Pasta Alfredo, and Steak contribute over **30% of total revenue**.
-* Main Dishes consistently outperform all other categories.
 
 ---
 
